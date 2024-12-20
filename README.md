@@ -1,4 +1,4 @@
-# Supply-Chain
+# Supply Chain Management project certificate
 Over the course of this project, I had the opportunity to delve deep into analyzing and visualizing key supply chain metrics using Excel, Power BI, Tableau, and SQL. This hands-on experience not only honed my technical skills but also deepened my understanding of supply chain dynamics and how data-driven insights drive business success.
 About the Project
 The project revolved around analyzing a comprehensive dataset to measure and visualize 9 key performance indicators (KPIs):
